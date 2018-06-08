@@ -1,7 +1,7 @@
 Apptest.ai Step Plugin
 ===================
 
-This pipeline plugin provices Apptest.ai test for Jenkins.
+This pipeline plugin provides Apptest.ai test for Jenkins.
 
 
 Usage
