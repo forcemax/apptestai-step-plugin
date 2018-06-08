@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+  Allows a pipeline to block until Apptest.ai test completed.
+</div>
