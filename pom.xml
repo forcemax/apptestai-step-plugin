@@ -13,7 +13,7 @@
 
   <properties>
     <jenkins.version>1.625.3</jenkins.version>
-    <java.level>7</java.level>
+    <java.level>8</java.level>
     <jenkins-test-harness.version>2.13</jenkins-test-harness.version>
   </properties>
 
@@ -79,7 +79,7 @@
     <dependency>
     	<groupId>com.fasterxml.jackson.core</groupId>
     	<artifactId>jackson-databind</artifactId>
-    	<version>2.6.7.1</version>
+    	<version>2.8.11.3</version>
     </dependency>
   </dependencies>
 
